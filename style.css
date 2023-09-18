@@ -1,0 +1,29 @@
+.navbar ul  {
+    display: flex;
+}
+.navbar ul li  {
+    padding: 10px 10px;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+.navbar ul li a {
+    color: black;
+    text-decoration: none;
+    
+}
+.logo{
+    width: 50px;
+}
+.img{
+    border: 2px solid black;
+    border-radius: 45%;
+    margin: 116px 50px;
+    
+}
+.h-h1{
+    color: green;
+}
+.bg{
+    background-color: beige;
+}
